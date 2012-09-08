@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem001", "Problem001\Problem001.csproj", "{9D16AEA3-30AD-44BE-A540-71A193578C23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem002", "Problem002\Problem002.csproj", "{092970F0-A6F9-48A5-9DF3-D1A270D428B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{9D16AEA3-30AD-44BE-A540-71A193578C23}.Debug|x86.Build.0 = Debug|x86
 		{9D16AEA3-30AD-44BE-A540-71A193578C23}.Release|x86.ActiveCfg = Release|x86
 		{9D16AEA3-30AD-44BE-A540-71A193578C23}.Release|x86.Build.0 = Release|x86
+		{092970F0-A6F9-48A5-9DF3-D1A270D428B0}.Debug|x86.ActiveCfg = Debug|x86
+		{092970F0-A6F9-48A5-9DF3-D1A270D428B0}.Debug|x86.Build.0 = Debug|x86
+		{092970F0-A6F9-48A5-9DF3-D1A270D428B0}.Release|x86.ActiveCfg = Release|x86
+		{092970F0-A6F9-48A5-9DF3-D1A270D428B0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
